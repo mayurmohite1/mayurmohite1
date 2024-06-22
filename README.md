@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain Developer and Web Developer.
 ---------------------------------------
 
-I'm on a journey to become a skilled Blockchain Developer, focusing on Ethereum, Solidity, and the exciting world of smart contracts. I'm also diving into Web Development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I'm passionate about exploring the intersection of blockchain and web technologies and eager to contribute my skills to innovative projects. Always open to learning and collaboration, I'm excited about the endless possibilities in these dynamic fields. Let's connect and grow together!
+I'm on a journey to become a skilled Blockchain Developer and the exciting world of smart contracts. I'm also having good experience in Web Development. I'm passionate about exploring the intersection of blockchain and web technologies and eager to contribute my skills to innovative projects. Always open to learning and collaboration, I'm excited about the endless possibilities in these dynamic fields. Let's connect and grow together!
 
 * 🌍  I'm based in Mumbai.
 * ✉️  You can contact me at [mayurmohite1562@gmail.com](mailto:mayurmohite1562@gmail.com)

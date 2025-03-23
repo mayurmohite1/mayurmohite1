@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain Developer and Web Developer.
 ---------------------------------------
 
-I'm on a journey to become a skilled Blockchain Developer and the exciting world of smart contracts. I'm also having good experience in Web Development. I'm passionate about exploring the intersection of blockchain and web technologies and eager to contribute my skills to innovative projects. Always open to learning and collaboration, I'm excited about the endless possibilities in these dynamic fields. Let's connect and grow together!
+I’m a passionate and performance-focused Software Engineer with a strong focus on solving complex problems and delivering impactful digital solutions. With hands-on experience in building dynamic, responsive, and user-friendly web applications, I specialize in JavaScript and modern front-end technologies, particularly React.js.
+
+Over the years, I’ve developed a solid understanding of web development fundamentals, including HTML5, CSS3, and component-based architecture. I enjoy crafting clean, scalable code that leads to high-performance applications, while ensuring cross-browser compatibility and mobile responsiveness. My approach combines technical proficiency with a keen eye for user experience and design.
+
+I thrive in collaborative, Agile environments and enjoy working with cross-functional teams to bring ideas to life. Whether it’s developing new features, debugging complex issues, or optimizing performance, I’m always up for a challenge. I’m committed to continuous learning and staying updated with the latest technologies and best practices to deliver solutions that make a difference.
 
 * 🌍  I'm based in Mumbai.
 * ✉️  You can contact me at [mayurmohite1562@gmail.com](mailto:mayurmohite1562@gmail.com)

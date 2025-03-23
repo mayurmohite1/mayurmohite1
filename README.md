@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mayur Mohite
 ====================================================================================================================================
 
-Blockchain Developer and Web Developer.
+Software Development Engineer.
 ---------------------------------------
 
 I’m a passionate and performance-focused Software Engineer with a strong focus on solving complex problems and delivering impactful digital solutions. With hands-on experience in building dynamic, responsive, and user-friendly web applications, I specialize in JavaScript and modern front-end technologies, particularly React.js.

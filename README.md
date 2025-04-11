@@ -4,11 +4,15 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Development Engineer | Blockchain Engineer
 ---------------------------------------
 
-I’m a passionate and performance-focused Software Engineer with a strong focus on solving complex problems and delivering impactful digital solutions. With hands-on experience in building dynamic, responsive, and user-friendly web applications, I specialize in JavaScript and modern front-end technologies, particularly React.js.
+I’m a passionate and results-driven Software Development Engineer who enjoys turning complex challenges into impactful digital solutions. With a strong foundation in JavaScript, TypeScript, and a deep focus on React, I specialize in building dynamic, responsive, and user-friendly web applications that deliver real value.
 
-Over the years, I’ve developed a solid understanding of web development fundamentals, including HTML5, CSS3, and component-based architecture. I enjoy crafting clean, scalable code that leads to high-performance applications, while ensuring cross-browser compatibility and mobile responsiveness. My approach combines technical proficiency with a keen eye for user experience and design.
+I have a solid understanding of component-based architecture and strive to write clean, scalable, and maintainable code. My work is guided by performance, usability, and a thoughtful approach to user experience across all devices.
 
-I thrive in collaborative, Agile environments and enjoy working with cross-functional teams to bring ideas to life. Whether it’s developing new features, debugging complex issues, or optimizing performance, I’m always up for a challenge. I’m committed to continuous learning and staying updated with the latest technologies and best practices to deliver solutions that make a difference.
+In addition to front-end development, I have hands-on experience in blockchain technology. I've worked with Solidity to develop smart contracts and have built decentralized applications (dApps) that bridge the gap between blockchain logic and modern web interfaces.
+
+I thrive in collaborative, Agile environments and enjoy working alongside cross-functional teams to bring innovative ideas to life. Whether I’m building new features, debugging tough issues, or optimizing performance, I approach every challenge with curiosity and a drive to learn.
+
+I'm always looking to grow — both technically and as a teammate — and I'm excited to be part of projects that make a real-world impact.
 
 * 🌍  I'm based in Mumbai.
 * ✉️  You can contact me at [mayurmohite1562@gmail.com](mailto:mayurmohite1562@gmail.com)

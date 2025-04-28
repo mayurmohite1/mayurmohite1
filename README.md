@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Development Engineer | Blockchain Engineer
 ---------------------------------------
 
-I’m a passionate and results-driven Software Development Engineer who enjoys turning complex challenges into impactful digital solutions. With a strong foundation in JavaScript, TypeScript, React and Nextjs I specialize in building dynamic, responsive, and user-friendly web applications that deliver real value.
+I’m a passionate and results-driven Software Development Engineer who enjoys turning complex challenges into impactful digital solutions. With a strong foundation in JavaScript, TypeScript, React and Nextjs. I specialize in building dynamic, responsive, and user-friendly web applications that deliver real value.
 
 I have a solid understanding of component-based architecture and strive to write clean, scalable, and maintainable code. My work is guided by performance, usability, and a thoughtful approach to user experience across all devices.
 
